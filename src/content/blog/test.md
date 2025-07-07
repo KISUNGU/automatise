@@ -1,9 +1,10 @@
 ---
 title: "This is a title"
 description: "This is a description"
-pudate: "july 07 2025"
-heroImage: "/bloc-placeholderd-3.jpg"
+pubDate: "2025-07-07"
+heroImage: "../../assets/blog-placeholder-3.jpg"
 ---
+
 
 # This is a title
 
